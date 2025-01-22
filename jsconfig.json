@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Đặt thư mục gốc cho các đường dẫn
+    "paths": {
+      "~/*": ["src/*"] // Alias cho module
+    }
+  }
+}
