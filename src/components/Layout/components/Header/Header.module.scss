@@ -97,6 +97,7 @@
   }
 }
 
+// Actions
 .actions {
   display: flex;
   align-items: center;
@@ -107,5 +108,23 @@
   margin-left: 24px;
   padding: 4px 8px;
   background-color: transparent;
+  cursor: pointer;
+}
+
+.action-btn {
+  font-size: 2.2rem;
+  color: #161823;
+  background-color: transparent;
+  padding: 4px 12px;
+  cursor: pointer;
+}
+
+// User avatar
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-left: 12px;
   cursor: pointer;
 }
