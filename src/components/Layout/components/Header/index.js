@@ -42,6 +42,126 @@ const MENU_ITEMS = [
           code: 'vi',
           title: 'Tiếng Việt',
         },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
+        {
+          code: 'en',
+          title: 'English',
+        },
+        {
+          code: 'vi',
+          title: 'Tiếng Việt',
+        },
       ],
     },
   },
