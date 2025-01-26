@@ -70,8 +70,8 @@ Button.propTypes = {
   disabled: PropTypes.bool,
   size: PropTypes.string,
   className: PropTypes.string,
-  leftIcon: PropTypes.elementType,
-  rightIcon: PropTypes.elementType,
+  leftIcon: PropTypes.node,
+  rightIcon: PropTypes.node,
   onClick: PropTypes.func,
 };
 
