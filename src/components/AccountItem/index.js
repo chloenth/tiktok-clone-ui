@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types */
+import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import classNames from 'classnames/bind';
 import styles from './AccountItem.module.scss';
@@ -24,5 +24,9 @@ function AccountItem({ data }) {
     </Link>
   );
 }
+
+AccountItem.propTypes = {
+  data: PropTypes.object,
+};
 
 export default AccountItem;
